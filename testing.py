@@ -1,0 +1,1 @@
+print("hello dodt,   kya hal hai ? ")
