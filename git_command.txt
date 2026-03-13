@@ -4,3 +4,7 @@ git config --global user.name "umarjutt01"
 git commit -m "files added "
 rm testing.py
 history
+mkdir git-demo-clone
+cd git-demo-clone
+git clone https://github.com/umarjutt01/github-for-devops.git
+rm -rf git-demo-clone
