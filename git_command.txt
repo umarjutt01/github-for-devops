@@ -1,0 +1,6 @@
+git status  
+git add testing.py
+git config --global user.name "umarjutt01"
+git commit -m "files added "
+rm testing.py
+history
